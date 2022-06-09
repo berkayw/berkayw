@@ -1,11 +1,9 @@
 <img align="right" alt="GIF" src="https://c.tenor.com/rCaIUO0MP-EAAAAC/mario-pixel-art.gif" width="498" height="280" />
+<h2> Hey! 🕹️  </h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=berkayw.berkayw)](https://github.com/berkayw) [![GitHub followers](https://img.shields.io/github/followers/berkayw.svg?style=social&label=Follow)](https://github.com/berkayw?tab=followers)
 
-<h2> Hey! 🕹️  </h2>
   I’m Berkay!
-  
-  <br />
   <br />
     
 * I'm CS student at Gedik University at Istanbul.
