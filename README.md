@@ -16,9 +16,9 @@
 
 <h2> I Also Have a Knowledge of </h2>
 
- * C/C++ (Intermediate)
- * C#    (Beginner)
- * Java  (Intermediate)
+ * C/C++ 
+ * C#    
+ * Java  
  
  <h2> Developed Games </h2>
 
