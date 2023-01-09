@@ -12,7 +12,7 @@
 * I'm trying to improve myself from Udemy Courses, Youtube Tutorials and CS Lectures.
 <h2> I'm Currently Learning </h2>
  
- * C++/Unreal Engine
+ * Hyper Casual Game Development in Unity
 
 <h2> I Also Have a Knowledge of </h2>
 
@@ -22,9 +22,10 @@
  
  <h2> Developed Games </h2>
 
- * Delivery Driver (C# Unity)
- * Snow Boarder (C# Unity)
- * Blue Boy Adventure (Java)
+ * Blue Boy Adventure (2D Action RPG / Java)
+ * The Pirate (2D Platformer / Java)
+ * Delivery Driver (2D Fully Flat / C# Unity)
+ * Snow Boarder (2D Platformer / C# Unity)
 <h2> Connect With Me </h2>
 
 
