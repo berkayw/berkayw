@@ -8,7 +8,6 @@
     
 * I'm CS student at Gedik University at Istanbul.
 * I'm interested in Game Development and Pixel Art.
-* I'm just a beginner for now but i like to learn new things about games and development.
 * I'm trying to improve myself from Udemy Courses, Youtube Tutorials and CS Lectures.
 <h2> I'm Currently Learning </h2>
  
