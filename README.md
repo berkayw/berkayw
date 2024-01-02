@@ -32,11 +32,12 @@
 
  <br />
  
+ * Smart NPC With OpenAI (3D AI Dialogue System / C# Unity)
  * Circle Clone (2D Hyper-Casual / C# Unity)
  * ZigZag Clone (3D Hyper-Casual / C# Unity)
  * Roller Splat Clone (3D Hyper-Casual / C# Unity)
  * Cube Surfer Clone (3D Hyper-Casual / C# Unity)
- * Smart NPC With OpenAI (3D AI Dialogue System / C# Unity)
+ 
  
 
 <h2> Connect With Me </h2>
