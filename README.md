@@ -9,9 +9,9 @@
 * I'm CS student at Gedik University at Istanbul.
 * I'm interested in Game Development and Pixel Art.
 * I'm trying to improve myself from Udemy Courses, Youtube Tutorials and CS Lectures.
-<h2> I'm Currently Learning </h2>
+<h2> I'm Currently Working On </h2>
  
- * 2.5D TopDown Game Development in Unity
+ * 3D Action RPG Game Development in Unity
 
 <h2> I Also Have a Knowledge of </h2>
 
