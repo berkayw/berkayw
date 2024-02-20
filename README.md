@@ -6,14 +6,13 @@
   I’m Berkay!
   <br />
     
-* I'm CS student at Gedik University at Istanbul.
-* I'm interested in Game Development and Pixel Art.
+* I'm Computer Engineering student at Gedik University at Istanbul.
 * I'm trying to improve myself from Udemy Courses, Youtube Tutorials and CS Lectures.
 <h2> I'm Currently Working On </h2>
  
- * 3D Action RPG Game Development in Unity
+ * 3D Action RPG Development in Unity
 
-<h2> I Also Have a Knowledge of </h2>
+<h2> I Also Have Knowledge of </h2>
 
  * C/C++ 
  * C#    
@@ -29,7 +28,8 @@
  * Delivery Driver (2D Fully Flat / C# Unity)
  * Snow Boarder (2D Platformer / C# Unity)
  * UnderWorld Adventures (2.5D TopDown RPG / C# Unity)
-
+ * Shadow Of Sea (3D Action RPG / C# Unity)
+   
  <br />
  
  * Smart NPC With OpenAI (3D AI Dialogue System / C# Unity)
@@ -49,6 +49,5 @@
 
 <br />
 
-[instagram]: https://www.instagram.com/berkayw_
 [gmail]: mailto:berkayw737@gmail.com
 [linkedin]: https://www.linkedin.com/in/berkayw/
