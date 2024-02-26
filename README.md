@@ -43,7 +43,6 @@
 <h2> Connect With Me </h2>
 
 
-[<img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" height="30" width="30" src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/06/icon-google-gmail-new.png?q=80&fit=crop&w=355&dpr=1.5" />][gmail]
 [<img align="left" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />][linkedin]
 
