@@ -33,8 +33,7 @@
  * Blue Boy Adventure (2D Action RPG / Java)
  * The Pirate (2D Platformer / Java)
 
- You can check all projects on my portfolio website.
- berkayw.com
+ <a href="https://berkayw.com" target="_blank">You can check all projects on my portfolio website.</a>
  
  
 
