@@ -6,9 +6,9 @@
   I’m Berkay!
   <br />
     
-I’m a recent Computer Engineering graduate from Gedik University,<br/> with a strong passion for game development and software engineering.<br/>
+I’m a recent Computer Engineering graduate from Gedik University, with a strong passion for game development and software engineering.
 Throughout my studies and personal projects, I’ve gained hands-on experience in game design, Unity, and full-stack development. 
-I’m constantly working on improving my skills through online courses and building new projects, and I’m excited to bring my knowledge <br/> and enthusiasm to a professional setting.
+I’m constantly working on improving my skills through online courses and building new projects, and I’m excited to bring my knowledge and enthusiasm to a professional setting.
 <h2> I'm Currently Working On </h2>
  
  * 3D Action RPG Development in Unity
