@@ -19,24 +19,21 @@
  * Java  
  
  <h2> Developed Games </h2>
-
- * Blue Boy Adventure (2D Action RPG / Java)
- * The Pirate (2D Platformer / Java)
- 
- <br />
  
  * Delivery Driver (2D Fully Flat / C# Unity)
  * Snow Boarder (2D Platformer / C# Unity)
  * UnderWorld Adventures (2.5D TopDown RPG / C# Unity)
  * Shadow Of Sea (3D Action RPG / C# Unity)
-   
- <br />
- 
+ * Crystal Wars (3D Multiplayer Online Battle Royale / C# Unity)
  * Smart NPC With OpenAI (3D AI Dialogue System / C# Unity)
  * Circle Clone (2D Hyper-Casual / C# Unity)
  * ZigZag Clone (3D Hyper-Casual / C# Unity)
  * Roller Splat Clone (3D Hyper-Casual / C# Unity)
  * Cube Surfer Clone (3D Hyper-Casual / C# Unity)
+ * Blue Boy Adventure (2D Action RPG / Java)
+ * The Pirate (2D Platformer / Java)
+ 
+
  
  
 
