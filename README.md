@@ -6,8 +6,7 @@
   I’m Berkay!
   <br />
     
-* I'm Computer Engineering student at Gedik University at Istanbul.
-* I'm trying to improve myself from Udemy Courses, Youtube Tutorials and CS Lectures.
+I’m a recent Computer Engineering graduate from Gedik University, with a strong passion for game development and software engineering. Throughout my studies and personal projects, I’ve gained hands-on experience in game design, Unity, and full-stack development. I’m constantly working on improving my skills through online courses and building new projects, and I’m excited to bring my knowledge and enthusiasm to a professional setting.
 <h2> I'm Currently Working On </h2>
  
  * 3D Action RPG Development in Unity
@@ -16,7 +15,9 @@
 
  * C/C++ 
  * C#    
- * Java  
+ * Java
+ * Unity
+ * Photon
  
  <h2> Developed Games </h2>
  
